@@ -1,3 +1,3 @@
 ### Output folder
 
-The output directory contains csv files that include labels prediced by all three models.
+The output directory contains enchanced CNN models and label prediction by models.
